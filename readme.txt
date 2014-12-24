@@ -59,6 +59,7 @@ You can install as others regular wordpress plugin. No different way. Please see
 = Why this plugin doesn't support link in ticker? =
 
 If you need link support in ticker, you have to purchase premium version. Premium version is coming soon. Please wait for that.
+Please visit our site: http://mamunkhan.net/plugins/
 
 
 

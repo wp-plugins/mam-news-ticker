@@ -1,0 +1,6 @@
+
+div.ticker {overflow:hidden;margin-top:10px;}
+div.ticker strong{float:left;background:#333;color:#fff;margin-right:15px;display:inline-block;padding:0 15px}
+div.ticker ul{}
+div.ticker ul li{}
+div.ticker ul li a{}
